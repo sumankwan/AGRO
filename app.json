@@ -1,0 +1,6 @@
+{
+  "name": "AGRO Dashboard",
+  "description": "CP Foods Production Dashboard",
+  "repository": "https://github.com/sumankwan/AGRO",
+  "keywords": ["python", "streamlit", "dashboard"]
+}
